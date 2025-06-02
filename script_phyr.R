@@ -1,5 +1,5 @@
 # Set working directory
-setwd("D:/BKP muerte/Nico/Docs/ANALISIS ESTADISTICOS/nico lava/PAPER MODELO/VinczeEtal2021Nature-main/Use Phyr")
+setwd("")
 
 # Load libraries
 library(ape)
