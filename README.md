@@ -6,6 +6,6 @@ This repository contains supporting information, including data, analysis script
 
 This repository includes the following main resources:
 
-Data: Raw datasets used in the analyses.
+Data: Raw datasets used in the analyses and the phylogenetic trees.
 Code: Scripts for reproducing the results presented in the manuscript.
 Info Tables: Information tables and figures that are included in the supplementary information.
